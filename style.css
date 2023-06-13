@@ -65,9 +65,9 @@ footer {
   padding: 1rem;
 }
 
-#icon-li {
+#icon {
   display: inline-block;
-  margin: 10px;
+  margin-top: 10px;
   width: 50px;
   height: 50px;
   background-color: #0077B5;
@@ -80,7 +80,7 @@ footer {
   transition: all 0.3s ease;
 }
 
-#icon-li:hover {
+#icon:hover {
   transform: scale(1.2);
 }
 #download-cv-pdf {
